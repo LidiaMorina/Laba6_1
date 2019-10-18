@@ -12,12 +12,12 @@
 	</professor>
 	
 	<professor FIO="Petrov P.P">
-		<numderOfLessons>Г12</numderOfLessons>
+		<numderOfLessons>12</numderOfLessons>
 		<numderOfStudents>30</numderOfStudents>
 		<Object>
 			<nameObject>Programming</nameObject>
 			<week>Friday</week>
-			<cabinet>312</cabinet>
+			<cabinet>Г312</cabinet>
 		</Object>	
 	</professor>
 	
