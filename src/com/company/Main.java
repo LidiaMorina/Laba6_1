@@ -1,7 +1,7 @@
 package com.company;
 
 import java.io.InvalidObjectException;
-
+/* приложение, осуществляющее сериализацию/десериализацию pojo*/
 public class Main  {
     public static void main(String[] args) {
 
