@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="schedule_XSD.xsd">
+	
+	<professor FIO="Ivanov I.I.">
+		<numderOfLessons>5</numderOfLessons>
+		<numderOfStudents>18</numderOfStudents>
+		<Object>
+			<nameObject>Database</nameObject>
+			<week>Wednesday</week>
+			<cabinet>А502</cabinet>
+		</Object>	
+	</professor>
+	
+	<professor FIO="Petrov P.P">
+		<numderOfLessons>Г12</numderOfLessons>
+		<numderOfStudents>30</numderOfStudents>
+		<Object>
+			<nameObject>Programming</nameObject>
+			<week>Friday</week>
+			<cabinet>312</cabinet>
+		</Object>	
+	</professor>
+	
+	<professor FIO="Sidirov S.S.">
+		<numderOfLessons>7</numderOfLessons>
+		<numderOfStudents>20</numderOfStudents>
+		<Object>
+			<nameObject>Math</nameObject>
+			<week>Tuesday</week>
+			<cabinet>Д202</cabinet>
+		</Object>	
+	</professor>
+		  	   
+</schedule>
